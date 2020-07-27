@@ -1,0 +1,12 @@
+/Users/admin/source/codeworks/projects/C#calc/bin/Debug/netcoreapp3.1/C#calc.deps.json
+/Users/admin/source/codeworks/projects/C#calc/bin/Debug/netcoreapp3.1/C#calc.runtimeconfig.json
+/Users/admin/source/codeworks/projects/C#calc/bin/Debug/netcoreapp3.1/C#calc.runtimeconfig.dev.json
+/Users/admin/source/codeworks/projects/C#calc/bin/Debug/netcoreapp3.1/C#calc.dll
+/Users/admin/source/codeworks/projects/C#calc/bin/Debug/netcoreapp3.1/C#calc.pdb
+/Users/admin/source/codeworks/projects/C#calc/obj/Debug/netcoreapp3.1/C#calc.csprojAssemblyReference.cache
+/Users/admin/source/codeworks/projects/C#calc/obj/Debug/netcoreapp3.1/C#calc.csproj.CoreCompileInputs.cache
+/Users/admin/source/codeworks/projects/C#calc/obj/Debug/netcoreapp3.1/C#calc.AssemblyInfoInputs.cache
+/Users/admin/source/codeworks/projects/C#calc/obj/Debug/netcoreapp3.1/C#calc.AssemblyInfo.cs
+/Users/admin/source/codeworks/projects/C#calc/obj/Debug/netcoreapp3.1/C#calc.dll
+/Users/admin/source/codeworks/projects/C#calc/obj/Debug/netcoreapp3.1/C#calc.pdb
+/Users/admin/source/codeworks/projects/C#calc/obj/Debug/netcoreapp3.1/C#calc.genruntimeconfig.cache
